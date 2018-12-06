@@ -6,7 +6,7 @@ Java实现单机版学生信息管理系统，主要涉及Java图形界面开发
 - 数据库：Mysql
 - 开发工具：Eclipse
 
-## 实现功能
+## 实现要求
 1. 使用GUI图形用户界面；   
 2. 设置学生与老师两种角色，能够实现其注册登陆功能  
 3. 用数据库(任意数据库)建立2~3个表，列属性任意  
@@ -18,18 +18,18 @@ Java实现单机版学生信息管理系统，主要涉及Java图形界面开发
 
 ![funcImage](images/register.png)
 
-![funcImage](images/manage.png)
+<img src="images/manage.png" width = 70% height = 80% div align=center />
 
 ![funcImage](images/add.png)
 
 ## 数据库设计
 - student表：
 
-![funcImage](images/stuTable.png)
+<img src="images/stuTable.png" width = 70% height = 80% div align=center />
 
 - admin表：
 
-![funcImage](images/adminTable.png)
+<img src="images/adminTable.png" width = 70% height = 80% div align=center />
 
 ## Authors
 qiwenkaikai@qq.com
